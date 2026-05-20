@@ -1,19 +1,22 @@
 {
-    "basePackage": "eu.darkbot.carnageplus",
-    "name": "Carnage Plugin Plus",
-    "author": "Carnage",
-    "version": "1.1.3",
-    "minVersion": "1.131",
-    "supportedVersion": "1.131.7",
-    "features": [
-        "eu.darkbot.assembly.AssemblyBehavior",
-        "eu.darkbot.dailyops.module.DailyOpsModule",
-        "eu.darkbot.dailyshop.module.DailyShopModule",
-        "eu.darkbot.carnagedse.module.CarnageDSEModule",
-        "eu.darkbot.trinityadmin.modules.TrinityModule",
-        "eu.darkbot.trinityadmin.DailyConfigSwitchBehavior",
-        "com.carnage.refreshguard.RefreshGuardBehavior",
-        "eu.darkbot.extra.ExtraFeature",
-        "eu.darkbot.carnageplus.CarnagePlusLicenseTask"
-    ]
+  "basePackage": "eu.darkbot.carnageplus",
+  "name": "Carnage Plugin Plus",
+  "author": "Carnage",
+  "version": "1.1.4",
+  "minVersion": "1.131",
+  "supportedVersion": "1.131.7",
+  "features": [
+    "eu.darkbot.assembly.AssemblyBehavior",
+    "eu.darkbot.dailyops.module.DailyOpsModule",
+    "eu.darkbot.dailyshop.module.DailyShopModule",
+    "eu.darkbot.carnagedse.module.CarnageDSEModule",
+    "eu.darkbot.trinityadmin.modules.TrinityModule",
+    "eu.darkbot.trinityadmin.DailyConfigSwitchBehavior",
+    "com.carnage.refreshguard.RefreshGuardBehavior",
+    "eu.darkbot.extra.ExtraFeature"
+  ],
+  "discord": "https://discord.gg/egPenNhX7g",
+  "donation": "https://discord.gg/egPenNhX7g",
+  "download": "https://github.com/Carnage9514/Carnage-Plugin-Plus/releases/download/latest/CarnagePluginPlus.jar",
+  "update": "https://raw.githubusercontent.com/Carnage9514/Carnage-Plugin-Plus/main/plugin.json"
 }
