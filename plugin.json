@@ -2,7 +2,7 @@
   "basePackage": "eu.darkbot.carnageplus",
   "name": "Carnage Plugin Plus",
   "author": "Carnage",
-  "version": "1.1.22",
+  "version": "1.5.1",
   "minVersion": "1.131",
   "supportedVersion": "1.131.7",
   "features": [
@@ -11,6 +11,8 @@
     "eu.darkbot.dailyshop.module.DailyShopModule",
     "eu.darkbot.carnagedse.module.CarnageDSEModule",
     "eu.darkbot.trinityadmin.modules.TrinityModule",
+    "eu.darkbot.carnagegalaxy.modules.galaxy.GalaxyModule",
+    "eu.darkbot.carnageebl.modules.eternal.EternalBlacklightModule",
     "eu.darkbot.trinityadmin.DailyConfigSwitchBehavior",
     "com.carnage.refreshguard.RefreshGuardBehavior",
     "eu.darkbot.extra.ExtraFeature"
