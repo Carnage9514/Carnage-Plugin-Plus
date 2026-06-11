@@ -2,7 +2,7 @@
   "basePackage": "eu.darkbot.carnageplus",
   "name": "Carnage Plugin Plus",
   "author": "Carnage",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "minVersion": "1.131",
   "supportedVersion": "1.131.7",
   "features": [
